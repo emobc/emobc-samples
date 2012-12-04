@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>4815</dataId>
+    <headerText>Extremo</headerText>
+    <imageFile></imageFile>
+    <geoRef/>
+    <text>Los extremos se colocan uno a cada lado de los laterales. Suelen ser jugadores rápidos, ágiles, poco pesados y con gran capacidad de salto. Aprovechan al máximo el terreno de juego para abrir las defensas y generar huecos. Comienzan las jugadas de ataque estático desde su posición. Pueden convertirse en una fuente constante de goles cuando se juega contra defensas abiertas (como el 3-2-1).</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

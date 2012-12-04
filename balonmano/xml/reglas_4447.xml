@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>4447</dataId>
+    <headerText></headerText>
+    <order>false</order>
+    <list>
+      <listItem>
+        <description/>
+        <text>Campo de juego</text>
+        <imageFile>images/equipoico.png</imageFile>
+        <nextLevel>
+          <nextLevelDataId>9726</nextLevelDataId>
+          <nextLevelLevelId>9726</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+      <listItem>
+        <description/>
+        <text>Balón</text>
+        <imageFile>images/balonico.png</imageFile>
+        <nextLevel>
+          <nextLevelDataId>5783</nextLevelDataId>
+          <nextLevelLevelId>5783</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+      <listItem>
+        <description/>
+        <text>El equipo</text>
+        <imageFile>images/equipoico.png</imageFile>
+        <nextLevel>
+          <nextLevelDataId>158</nextLevelDataId>
+          <nextLevelLevelId>158</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+      <listItem>
+        <description/>
+        <text>Duración y resultado</text>
+        <imageFile>images/tiempoico.png</imageFile>
+        <nextLevel>
+          <nextLevelDataId>526</nextLevelDataId>
+          <nextLevelLevelId>526</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+    </list>
+  </data>
+</levelData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>6705</dataId>
+    <headerText>Guardameta</headerText>
+    <imageFile></imageFile>
+    <geoRef/>
+    <text>El guardameta es el único jugador que, dentro del área, puede dar los pasos que quiera con la pelota en las manos sin necesidad de hacerla botar. Debe ir identificado de un color distinto en su equipación al del resto de jugadores y es el único que puede tocar la pelota con sus piernas, aunque solo con intención defensiva (como detener un disparo). Fuera de dicha área debe comportarse como cualquier otro jugador del campo.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

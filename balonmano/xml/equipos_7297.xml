@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>7297</dataId>
+    <headerText></headerText>
+    <order>false</order>
+    <list>
+      <listItem>
+        <description/>
+        <text>Fútbol Club Barcelona</text>
+        <imageFile></imageFile>
+        <nextLevel>
+          <nextLevelDataId>9526</nextLevelDataId>
+          <nextLevelLevelId>9526</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+      <listItem>
+        <description/>
+        <text>BM Ciudad Real</text>
+        <imageFile></imageFile>
+        <nextLevel>
+          <nextLevelDataId>688</nextLevelDataId>
+          <nextLevelLevelId>688</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+      <listItem>
+        <description/>
+        <text>Portland San Antonio</text>
+        <imageFile></imageFile>
+        <nextLevel>
+          <nextLevelDataId>3664</nextLevelDataId>
+          <nextLevelLevelId>3664</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+      <listItem>
+        <description/>
+        <text>Reale Ademar</text>
+        <imageFile></imageFile>
+        <nextLevel>
+          <nextLevelDataId>5595</nextLevelDataId>
+          <nextLevelLevelId>5595</nextLevelLevelId>
+        </nextLevel>
+      </listItem>
+    </list>
+  </data>
+</levelData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>1893</dataId>
+    <headerText>Lateral</headerText>
+    <imageFile></imageFile>
+    <geoRef/>
+    <text>Los laterales se sitúan uno a cada lado del central. Suelen ser jugadores altos y corpulentos con un potente lanzamiento. Se utilizan para romper defensas cerradas desde la línea de 9 metros. Son los que asisten en la mayoría de ocasiones a los extremos por su proximidad.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

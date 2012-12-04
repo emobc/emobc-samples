@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>688</dataId>
+    <headerText>BM Ciudad Real</headerText>
+    <imageFile>images/imagen5.png</imageFile>
+    <geoRef/>
+    <text>El Club Balonmano Ciudad Real fue un club de balonmano con sede en la ciudad de Ciudad Real, capital de la provincia de Ciudad Real. En el momento de su traslado a Madrid el primer equipo de la entidad competía en la Liga ASOBAL de balonmano, ejerciendo de local en el Quijote Arena, con una capacidad de 5.863 espectadores. Actualmente solo compite en categorías inferiores.&#13;
+&#13;
+Fue fundado en 1981 cuando el Colegio Nuestra Señora del Prado de Ciudad Real buscaba ayudas para practicar el balonmano.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

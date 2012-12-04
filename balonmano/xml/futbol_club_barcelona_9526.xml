@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>9526</dataId>
+    <headerText>Fútbol Club Barcelona</headerText>
+    <imageFile>images/imagen4.png</imageFile>
+    <geoRef/>
+    <text>La sección de balonmano del Fútbol Club Barcelona fue creada el 29 de noviembre de 1942 y actualmente compite con el nombre actual de FC Barcelona Intersport, por motivos de patrocinio. Es el club más laureado del mundo en balonmano, al ser el conjunto que acumula más títulos de España y Europa.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

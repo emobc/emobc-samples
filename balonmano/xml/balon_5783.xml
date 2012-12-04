@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>5783</dataId>
+    <headerText>Balón</headerText>
+    <imageFile>images/imagen0.png</imageFile>
+    <geoRef/>
+    <text>El juego consta de un balón de cuero o de material sintético. Se utilizan 3 tamaños:&#13;
+&#13;
+El tamaño y peso de las pelotas para "mini-balonmano"(para niños menores de 8 años) no se encuentran fijadas en las reglas de la IHF. El tamaño no oficial de la pelota de mini-balonmano es de 48 cm .&#13;
+&#13;
+A partir de la categoría juvenil, se permite el uso de resina. La resina se utiliza debido al tamaño y al peso que el balón adquiere a partir de esta categoría, puesto que se hace realmente complicado sostener el balón a las grandes velocidades y fuerzas con las que se mueve.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

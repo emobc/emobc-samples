@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>7617</dataId>
+    <headerText>Central</headerText>
+    <imageFile></imageFile>
+    <geoRef/>
+    <text>Es el jugador de primera línea situado entre ambos laterales, que dentro de la cancha dirige el juego a través de cruces y demás jugadas planificadas y coordinadas en todo momento con él como principal protagonista. Por tanto no es tan relevante su fuerza o velocidad como visión de juego y destreza. En caso de fallo de ataque del equipo contrario, el central es, normalmente, la persona que recibe el balón del portero para iniciar su ataque. En defensa, el central, normalmente, se coloca en el centro de la línea defensiva junto con el pivote.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

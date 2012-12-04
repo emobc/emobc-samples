@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>7758</dataId>
+    <headerText>Balonmano</headerText>
+    <imageFile>images/imagen1.png</imageFile>
+    <geoRef/>
+    <text>El balonmano o handball (ambos términos procedentes del alemán Handball) es un deporte de pelota en el que se enfrentan dos equipos. Cada equipo se compone de 7 jugadores (6 jugadores y 1 portero), pudiendo el equipo contar con otros 7 jugadores reservas que pueden intercambiarse en cualquier momento con sus compañeros. Se juega en un campo rectangular, con una portería a cada lado del campo y el objetivo del juego es desplazar una pelota a través del campo &#13;
+&#13;
+valiéndose fundamentalmente de las manos para intentar introducirla dentro de la meta contraria, acción que se denomina gol. El equipo que marque más goles al concluir el partido, que consta de dos partes de 30 minutos, es el que resulta ganador, pudiendo darse también el empate.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

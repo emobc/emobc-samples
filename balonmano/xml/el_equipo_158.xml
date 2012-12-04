@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>158</dataId>
+    <headerText>El equipo</headerText>
+    <imageFile>images/imagen3.png</imageFile>
+    <geoRef/>
+    <text>Un equipo está compuesto hasta 14 jugadores.&#13;
+&#13;
+Deberán estar presentes en el terreno de juego, simultáneamente, un máximo de 7 jugadores. El resto de los jugadores son reservas.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

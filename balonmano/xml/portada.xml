@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <title>Balonmano</title>
+  <backgroundFileName/>
+  <titleFileName/>
+  <facebook/>
+  <twitter/>
+  <www/>
+  <buttons>
+    <button>
+      <buttonTitle>Historia</buttonTitle>
+      <buttonFileName>images/boton historia.png</buttonFileName>
+      <nextLevel>
+        <nextLevelLevelId>7758</nextLevelLevelId>
+        <nextLevelDataId>7758</nextLevelDataId>
+      </nextLevel>
+    </button>
+    <button>
+      <buttonTitle>Reglas</buttonTitle>
+      <buttonFileName>images/boton reglas.png</buttonFileName>
+      <nextLevel>
+        <nextLevelLevelId>4447</nextLevelLevelId>
+        <nextLevelDataId>4447</nextLevelDataId>
+      </nextLevel>
+    </button>
+    <button>
+      <buttonTitle>Equipos</buttonTitle>
+      <buttonFileName>images/boton equipos.png</buttonFileName>
+      <nextLevel>
+        <nextLevelLevelId>7297</nextLevelLevelId>
+        <nextLevelDataId>7297</nextLevelDataId>
+      </nextLevel>
+    </button>
+    <button>
+      <buttonTitle>Posiciones</buttonTitle>
+      <buttonFileName>images/boton posiciones.png</buttonFileName>
+      <nextLevel>
+        <nextLevelLevelId>6468</nextLevelLevelId>
+        <nextLevelDataId>6468</nextLevelDataId>
+      </nextLevel>
+    </button>
+  </buttons>
+</level>

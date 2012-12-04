@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>526</dataId>
+    <headerText>Duración y resultado</headerText>
+    <imageFile></imageFile>
+    <geoRef/>
+    <text>La duración del partido es de 60 min, divididos en 2 periodos de 30 min cada uno. El resultado puede ser de victoria para cada uno de los equipos, o empate. Para los equipos de jóvenes entre 12 y 16 años es de dos tiempos de 25 min, y para la edad comprendida entre los 8 y los 12 años de dos tiempos 20 min; en ambos casos el descanso será de 10 min .&#13;
+&#13;
+La prórroga se juega después de un descanso de 5 min de descanso, si el partido está empatado al final de la duración normal del encuentro y se tiene que determinar un ganador. El periodo de prórroga consiste en dos tiempos de 5 minutos cada uno con un minuto de descanso entre ambos.&#13;
+&#13;
+Si tras el primer periodo de la prórroga continúa el empate se disputa un segundo periodo de prórroga después de 5 minutos de descanso. Ésta segunda prórroga también consiste en dos tiempos de 5 minutos con un minuto de descanso.&#13;
+&#13;
+Si aún así el partido continúa empatado, el ganador se determinará según las reglas de esa competición en particular. En el caso de que se decida por lanzamientos de 7 metros, se disputaría al mejor de 5 lanzamientos de 7 metros; de persistir el empate se seguiría lanzando hasta proclamar al ganador.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

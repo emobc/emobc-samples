@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levelData>
+  <data>
+    <dataId>9726</dataId>
+    <headerText>Campo de juego</headerText>
+    <imageFile>images/imagen2.png</imageFile>
+    <geoRef/>
+    <text>El terreno de juego es un rectángulo de 40 m de largo por 20 de ancho, dividido en dos partes iguales, en la cual podemos encontrar un área de portería en cada una.&#13;
+&#13;
+La portería está situada en la zona central de cada línea exterior de portería. Las porterías estarán firmemente fijadas al suelo o a las paredes que están detrás de ellas para mayor seguridad. Sus medidas son de 2 m de alto por 3 m de ancho, pintada a dos colores con franjas de 2 dm y el ancho de los postes y el larguero es de 8 cm, medida que coincide con el ancho de la línea de gol. Dicha portería se encuentra dentro de un área de 74,5 m cuadrados, trazada a partir de dos cuartos de círculo, con centro en cada uno de los postes y radio de 6 m, unidos por una línea paralela a la línea de gol.&#13;
+&#13;
+Todas las líneas del terreno forman parte de la superficie que delimitan, midiendo las líneas de gol 8 cm de ancho entre los postes de la portería mientras que las otras líneas serán de 5 cm.</text>
+    <nextLevel>
+      <nextLevelLevelId/>
+      <nextLevelDataId/>
+    </nextLevel>
+  </data>
+</levelData>

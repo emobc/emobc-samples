@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <menuActions>
+    <action>
+      <actionTitle>Volver</actionTitle>
+      <actionImageName>images/botón_atrás.png</actionImageName>
+      <systemAction>back</systemAction>
+      <leftMargin>5</leftMargin>
+      <widthButton></widthButton>
+      <heightButton></heightButton>
+      <nextLevel>
+        <nextLevelLevelId/>
+        <nextLevelDataId/>
+      </nextLevel>
+    </action>
+    <action>
+      <actionTitle>Inicio</actionTitle>
+      <actionImageName>images/boton casa.png</actionImageName>
+      <systemAction>home</systemAction>
+      <leftMargin></leftMargin>
+      <widthButton>31</widthButton>
+      <heightButton>31</heightButton>
+      <nextLevel>
+        <nextLevelLevelId/>
+        <nextLevelDataId/>
+      </nextLevel>
+    </action>
+  </menuActions>
+</level>
